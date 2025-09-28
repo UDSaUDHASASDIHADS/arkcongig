@@ -1,1 +1,1969 @@
 
+{
+    "ENEMY_DUEL": {
+        "act1enemyduel": {
+            "milestone": {
+                "point": 6300,
+                "got": [
+                    "mileStone_1",
+                    "mileStone_10",
+                    "mileStone_11",
+                    "mileStone_12",
+                    "mileStone_13",
+                    "mileStone_14",
+                    "mileStone_15",
+                    "mileStone_16",
+                    "mileStone_17",
+                    "mileStone_18",
+                    "mileStone_19",
+                    "mileStone_2",
+                    "mileStone_20",
+                    "mileStone_21",
+                    "mileStone_22",
+                    "mileStone_23",
+                    "mileStone_24",
+                    "mileStone_25",
+                    "mileStone_26",
+                    "mileStone_27",
+                    "mileStone_28",
+                    "mileStone_29",
+                    "mileStone_3",
+                    "mileStone_30",
+                    "mileStone_31",
+                    "mileStone_32",
+                    "mileStone_33",
+                    "mileStone_34",
+                    "mileStone_35",
+                    "mileStone_36",
+                    "mileStone_37",
+                    "mileStone_38",
+                    "mileStone_39",
+                    "mileStone_4",
+                    "mileStone_40",
+                    "mileStone_41",
+                    "mileStone_42",
+                    "mileStone_43",
+                    "mileStone_44",
+                    "mileStone_45",
+                    "mileStone_46",
+                    "mileStone_47",
+                    "mileStone_48",
+                    "mileStone_49",
+                    "mileStone_5",
+                    "mileStone_50",
+                    "mileStone_6",
+                    "mileStone_7",
+                    "mileStone_8",
+                    "mileStone_9"
+                ]
+            },
+            "dailyMission": {
+                "process": 0,
+                "state": 0
+            },
+            "modeInfo": {
+                "soloOperation": {
+                    "highScore": 262900,
+                    "curStage": "act1enemyduel_01b",
+                    "isUnlock": true
+                },
+                "multiOperationMatch": {
+                    "highScore": 262900,
+                    "curStage": "act1enemyduel_02b",
+                    "isUnlock": true
+                },
+                "multiStandMatch": {
+                    "highScore": 1,
+                    "curStage": "act1enemyduel_02b",
+                    "isUnlock": true
+                },
+                "multiOperationRoom": {
+                    "highScore": 0,
+                    "curStage": "act1enemyduel_02b",
+                    "isUnlock": true
+                },
+                "multiStandRoom": {
+                    "highScore": 0,
+                    "curStage": "act1enemyduel_02b",
+                    "isUnlock": true
+                }
+            },
+            "globalBan": false
+        },
+        "act2enemyduel": {
+            "milestone": {
+                "point": 6300,
+                "got": [
+                    "mileStone_1",
+                    "mileStone_10",
+                    "mileStone_11",
+                    "mileStone_12",
+                    "mileStone_13",
+                    "mileStone_14",
+                    "mileStone_15",
+                    "mileStone_16",
+                    "mileStone_17",
+                    "mileStone_18",
+                    "mileStone_19",
+                    "mileStone_2",
+                    "mileStone_20",
+                    "mileStone_21",
+                    "mileStone_22",
+                    "mileStone_23",
+                    "mileStone_24",
+                    "mileStone_25",
+                    "mileStone_26",
+                    "mileStone_27",
+                    "mileStone_28",
+                    "mileStone_29",
+                    "mileStone_3",
+                    "mileStone_30",
+                    "mileStone_31",
+                    "mileStone_32",
+                    "mileStone_33",
+                    "mileStone_34",
+                    "mileStone_35",
+                    "mileStone_36",
+                    "mileStone_37",
+                    "mileStone_38",
+                    "mileStone_39",
+                    "mileStone_4",
+                    "mileStone_40",
+                    "mileStone_41",
+                    "mileStone_42",
+                    "mileStone_43",
+                    "mileStone_44",
+                    "mileStone_45",
+                    "mileStone_46",
+                    "mileStone_47",
+                    "mileStone_48",
+                    "mileStone_49",
+                    "mileStone_5",
+                    "mileStone_50",
+                    "mileStone_6",
+                    "mileStone_7",
+                    "mileStone_8",
+                    "mileStone_9"
+                ]
+            },
+            "dailyMission": {
+                "process": 0,
+                "state": 0
+            },
+            "modeInfo": {
+                "soloOperation": {
+                    "highScore": 262900,
+                    "curStage": "act2enemyduel_01b",
+                    "isUnlock": true
+                },
+                "multiOperationMatch": {
+                    "highScore": 262900,
+                    "curStage": "act2enemyduel_01b",
+                    "isUnlock": true
+                },
+                "multiStandMatch": {
+                    "highScore": 1,
+                    "curStage": "act2enemyduel_01b",
+                    "isUnlock": true
+                },
+                "multiOperationRoom": {
+                    "highScore": 0,
+                    "curStage": "act2enemyduel_01b",
+                    "isUnlock": true
+                },
+                "multiStandRoom": {
+                    "highScore": 0,
+                    "curStage": "act2enemyduel_01b",
+                    "isUnlock": true
+                }
+            },
+            "globalBan": false
+        }
+    },
+    "VEC_BREAK_V2": {
+        "act1break": {
+            "milestone": {
+                "point": 3600,
+                "got": [
+                    "mileStone_1",
+                    "mileStone_10",
+                    "mileStone_11",
+                    "mileStone_12",
+                    "mileStone_13",
+                    "mileStone_14",
+                    "mileStone_15",
+                    "mileStone_16",
+                    "mileStone_17",
+                    "mileStone_18",
+                    "mileStone_19",
+                    "mileStone_2",
+                    "mileStone_20",
+                    "mileStone_21",
+                    "mileStone_22",
+                    "mileStone_23",
+                    "mileStone_24",
+                    "mileStone_25",
+                    "mileStone_26",
+                    "mileStone_27",
+                    "mileStone_28",
+                    "mileStone_29",
+                    "mileStone_3",
+                    "mileStone_30",
+                    "mileStone_31",
+                    "mileStone_32",
+                    "mileStone_33",
+                    "mileStone_34",
+                    "mileStone_35",
+                    "mileStone_36",
+                    "mileStone_37",
+                    "mileStone_38",
+                    "mileStone_39",
+                    "mileStone_4",
+                    "mileStone_40",
+                    "mileStone_41",
+                    "mileStone_42",
+                    "mileStone_43",
+                    "mileStone_44",
+                    "mileStone_45",
+                    "mileStone_46",
+                    "mileStone_47",
+                    "mileStone_48",
+                    "mileStone_49",
+                    "mileStone_5",
+                    "mileStone_50",
+                    "mileStone_51",
+                    "mileStone_52",
+                    "mileStone_53",
+                    "mileStone_54",
+                    "mileStone_55",
+                    "mileStone_56",
+                    "mileStone_57",
+                    "mileStone_58",
+                    "mileStone_59",
+                    "mileStone_6",
+                    "mileStone_60",
+                    "mileStone_61",
+                    "mileStone_62",
+                    "mileStone_63",
+                    "mileStone_64",
+                    "mileStone_65",
+                    "mileStone_7",
+                    "mileStone_8",
+                    "mileStone_9"
+                ]
+            },
+            "defendStages": {
+                "act1break_sp01": {
+                    "stageId": "act1break_sp01",
+                    "defendSquad": [],
+                    "recvTimeLimited": true,
+                    "recvNormal": true
+                },
+                "act1break_sp02": {
+                    "stageId": "act1break_sp02",
+                    "defendSquad": [],
+                    "recvTimeLimited": true,
+                    "recvNormal": true
+                },
+                "act1break_sp03": {
+                    "stageId": "act1break_sp03",
+                    "defendSquad": [],
+                    "recvTimeLimited": true,
+                    "recvNormal": true
+                },
+                "act1break_sp04": {
+                    "stageId": "act1break_sp04",
+                    "defendSquad": [],
+                    "recvTimeLimited": true,
+                    "recvNormal": true
+                },
+                "act1break_sp05": {
+                    "stageId": "act1break_sp05",
+                    "defendSquad": [],
+                    "recvTimeLimited": true,
+                    "recvNormal": true
+                },
+                "act1break_sp06": {
+                    "stageId": "act1break_sp06",
+                    "defendSquad": [],
+                    "recvTimeLimited": true,
+                    "recvNormal": true
+                },
+                "act1break_sp07": {
+                    "stageId": "act1break_sp07",
+                    "defendSquad": [],
+                    "recvTimeLimited": true,
+                    "recvNormal": true
+                },
+                "act1break_sp08": {
+                    "stageId": "act1break_sp08",
+                    "defendSquad": [],
+                    "recvTimeLimited": true,
+                    "recvNormal": true
+                },
+                "act1break_sp09": {
+                    "stageId": "act1break_sp09",
+                    "defendSquad": [],
+                    "recvTimeLimited": true,
+                    "recvNormal": true
+                },
+                "act1break_sp10": {
+                    "stageId": "act1break_sp10",
+                    "defendSquad": [],
+                    "recvTimeLimited": true,
+                    "recvNormal": true
+                },
+                "act1break_sp11": {
+                    "stageId": "act1break_sp11",
+                    "defendSquad": [],
+                    "recvTimeLimited": true,
+                    "recvNormal": true
+                },
+                "act1break_sp12": {
+                    "stageId": "act1break_sp12",
+                    "defendSquad": [],
+                    "recvTimeLimited": true,
+                    "recvNormal": true
+                },
+                "act1break_sp13": {
+                    "stageId": "act1break_sp13",
+                    "defendSquad": [],
+                    "recvTimeLimited": true,
+                    "recvNormal": true
+                },
+                "act1break_sp14": {
+                    "stageId": "act1break_sp14",
+                    "defendSquad": [],
+                    "recvTimeLimited": true,
+                    "recvNormal": true
+                },
+                "act1break_sp15": {
+                    "stageId": "act1break_sp15",
+                    "defendSquad": [],
+                    "recvTimeLimited": true,
+                    "recvNormal": true
+                },
+                "act1break_sp16": {
+                    "stageId": "act1break_sp16",
+                    "defendSquad": [],
+                    "recvTimeLimited": true,
+                    "recvNormal": true
+                }
+            },
+            "activatedBuff": []
+        }
+    },
+    "BOSS_RUSH": {
+        "act5bossrush": {
+            "milestone": {
+                "point": 3625,
+                "got": [
+                    "mileStone_1",
+                    "mileStone_10",
+                    "mileStone_11",
+                    "mileStone_12",
+                    "mileStone_13",
+                    "mileStone_14",
+                    "mileStone_15",
+                    "mileStone_16",
+                    "mileStone_17",
+                    "mileStone_18",
+                    "mileStone_19",
+                    "mileStone_2",
+                    "mileStone_20",
+                    "mileStone_21",
+                    "mileStone_22",
+                    "mileStone_23",
+                    "mileStone_24",
+                    "mileStone_25",
+                    "mileStone_26",
+                    "mileStone_27",
+                    "mileStone_28",
+                    "mileStone_29",
+                    "mileStone_3",
+                    "mileStone_30",
+                    "mileStone_31",
+                    "mileStone_32",
+                    "mileStone_33",
+                    "mileStone_34",
+                    "mileStone_35",
+                    "mileStone_36",
+                    "mileStone_37",
+                    "mileStone_38",
+                    "mileStone_39",
+                    "mileStone_4",
+                    "mileStone_40",
+                    "mileStone_41",
+                    "mileStone_42",
+                    "mileStone_43",
+                    "mileStone_44",
+                    "mileStone_45",
+                    "mileStone_5",
+                    "mileStone_6",
+                    "mileStone_7",
+                    "mileStone_8",
+                    "mileStone_9"
+                ]
+            },
+            "relic": {
+                "token": {
+                    "current": 0,
+                    "total": 240
+                },
+                "level": {
+                    "act5bossrush_relic_01": 3,
+                    "act5bossrush_relic_02": 3,
+                    "act5bossrush_relic_03": 3,
+                    "act5bossrush_relic_04": 3
+                },
+                "select": "act5bossrush_relic_01"
+            },
+            "best": {
+                "act5bossrush_01": 2,
+                "act5bossrush_tm01": 2,
+                "act5bossrush_ex01": 2,
+                "act5bossrush_02": 3,
+                "act5bossrush_tm02": 3,
+                "act5bossrush_ex02": 3,
+                "act5bossrush_03": 3,
+                "act5bossrush_tm03": 3,
+                "act5bossrush_ex03": 3,
+                "act5bossrush_04": 3,
+                "act5bossrush_tm04": 3,
+                "act5bossrush_ex04": 3,
+                "act5bossrush_fin04": 3
+            }
+        },
+        "act4bossrush": {},
+        "act3bossrush": {},
+        "act2bossrush": {},
+        "act1bossrush": {}
+    },
+    "DEFAULT": {
+        "1stact": {}
+    },
+    "CHECKIN_ONLY": {
+        "act51sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act50sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act49sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act48sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act47sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act46sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act45sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act44sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act43sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act42sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act41sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act40sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act39sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act38sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act37sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act36sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act35sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act34sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act33sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act32sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act31sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act30sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act29sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act28sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act27sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act26sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act25sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act24sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act23sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act22sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act21sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act20sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act19sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act18sign": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act18d3d3": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act17d0d1": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act16d6": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act15d1": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act14d0d1": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act13d2d2": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act13d2d1": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act10d6": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act9d1d1": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act7d1": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act6d7": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act6d0": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act4d2": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act3d7": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act2d8": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act2d5": {
+            "lastTs": 1746160038,
+            "history": []
+        },
+        "act1d5": {
+            "lastTs": 1746160038,
+            "history": []
+        }
+    },
+    "CHECKIN_ALL_PLAYER": {
+        "act1checkin": {}
+    },
+    "CHECKIN_VS": {
+        "act3signvs": {},
+        "act2signvs": {},
+        "act1signvs": {}
+    },
+    "TYPE_ACT3D0": {
+        "act11d7": {},
+        "act3d0": {}
+    },
+    "TYPE_ACT4D0": {
+        "act7d5": {},
+        "act6d5": {},
+        "act4d0": {}
+    },
+    "TYPE_ACT5D0": {
+        "act14d7": {},
+        "act5d0": {}
+    },
+    "TYPE_ACT5D1": {},
+    "COLLECTION": {
+        "act6collection": {
+            "point": {},
+            "history": {}
+        },
+        "act5collection": {
+            "point": {},
+            "history": {}
+        },
+        "act4collection": {
+            "point": {},
+            "history": {}
+        },
+        "act3collection": {
+            "point": {},
+            "history": {}
+        },
+        "act2collection": {
+            "point": {},
+            "history": {}
+        },
+        "act1collection": {
+            "point": {},
+            "history": {}
+        },
+        "act9d4": {
+            "point": {},
+            "history": {}
+        },
+        "act6d8": {
+            "point": {},
+            "history": {}
+        },
+        "act4d5": {
+            "point": {},
+            "history": {}
+        },
+        "act3d5": {
+            "point": {},
+            "history": {}
+        }
+    },
+    "TYPE_ACT9D0": {
+        "act37sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act43side": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act34sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act33sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act41side": {},
+        "act40side": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act31sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act30sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act39side": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act37side": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act28sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act26sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act34side": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act33side": {
+            "coin": 10,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {},
+            "items": {
+                "act33side_token_sugar_rep_1": 50
+            }
+        },
+        "act32side": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act1r6sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act31side": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act23sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act22sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act30side": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act28side": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act19sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act26side": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act18sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act16sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act23side": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act15sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act22side": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act14sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act19side": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act18side": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act11sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act10sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act16side": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act15side": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act9sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act14side": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act8sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act7sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act6sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act5sre": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act18d3": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act18d0": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act17d5": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act17d0": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act16d5": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act15d0": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act13d5": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act13d2": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act12d0": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act11d0": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        },
+        "act9d0": {
+            "coin": 0,
+            "favorList": [
+                "char_450_necras",
+                "char_4171_wulfen",
+                "char_4177_brigid"
+            ],
+            "news": {}
+        }
+    },
+    "TYPE_ACT12SIDE": {
+        "act12sre": {},
+        "act12side": {}
+    },
+    "TYPE_ACT13SIDE": {
+        "act13sre": {},
+        "act13side": {}
+    },
+    "TYPE_ACT17SIDE": {
+        "act17sre": {},
+        "act17side": {}
+    },
+    "TYPE_ACT20SIDE": {
+        "act20sre": {},
+        "act20side": {}
+    },
+    "TYPE_ACT21SIDE": {
+        "act21sre": {},
+        "act21side": {
+            "items": {
+                "act21side_token_permesso_rep_1": 105
+            }
+        }
+    },
+    "LOGIN_ONLY": {
+        "act25login": {
+            "reward": 0
+        },
+        "act24login": {
+            "reward": 1
+        },
+        "act23login": {
+            "reward": 1
+        },
+        "act22login": {
+            "reward": 1
+        },
+        "act21login": {
+            "reward": 1
+        },
+        "act20login": {
+            "reward": 1
+        },
+        "act19login": {
+            "reward": 1
+        },
+        "act18login": {
+            "reward": 1
+        },
+        "act17login": {
+            "reward": 1
+        },
+        "act16login": {
+            "reward": 1
+        },
+        "act15login": {
+            "reward": 1
+        },
+        "act14login": {
+            "reward": 1
+        },
+        "act13login": {
+            "reward": 1
+        },
+        "act12login": {
+            "reward": 1
+        },
+        "act11login": {
+            "reward": 1
+        },
+        "act10login": {
+            "reward": 1
+        },
+        "act9login": {
+            "reward": 1
+        },
+        "act8login": {
+            "reward": 1
+        },
+        "act7login": {
+            "reward": 1
+        },
+        "act6login": {
+            "reward": 1
+        },
+        "act18d3d1": {
+            "reward": 1
+        },
+        "act17d0d2": {
+            "reward": 1
+        },
+        "act16d5d1": {
+            "reward": 1
+        },
+        "act14d0d2": {
+            "reward": 1
+        },
+        "act9d1d2": {
+            "reward": 1
+        }
+    },
+    "SWITCH_ONLY": {
+        "act4switch": {},
+        "act3switch": {},
+        "act2switch": {},
+        "act1switch": {}
+    },
+    "MINISTORY": {
+        "act19mini": {},
+        "act18mini": {},
+        "act17mini": {},
+        "act16mini": {},
+        "act15mini": {},
+        "act14mini": {},
+        "act13mini": {},
+        "act12mini": {},
+        "act11mini": {},
+        "act10mini": {},
+        "act9mini": {},
+        "act8mini": {},
+        "act7mini": {},
+        "act15d5": {},
+        "act13d0": {},
+        "act10d5": {}
+    },
+    "ROGUELIKE": {
+        "dis_rogue_5": {}
+    },
+    "INTERLOCK": {
+        "act1lock": {}
+    },
+    "FLOAT_PARADE": {
+        "act2float": {},
+        "act1float": {}
+    },
+    "MAIN_BUFF": {
+        "act1mainbuff": {}
+    },
+    "TYPE_ACT24SIDE": {
+        "act24side": {}
+    },
+    "TYPE_ACT25SIDE": {
+        "act25sre": {},
+        "act25side": {}
+    },
+    "TYPE_ACT27SIDE": {
+        "act27sre": {},
+        "act27side": {}
+    },
+    "TYPE_ACT42D0": {
+        "act42d0": {}
+    },
+    "TYPE_ACT29SIDE": {
+        "act29sre": {},
+        "act29side": {}
+    },
+    "YEAR_5_GENERAL": {
+        "act1mainss": {}
+    },
+    "TYPE_ACT35SIDE": {
+        "act35sre": {
+            "carving": null,
+            "unlock": {
+                "challenge_1": 1
+            },
+            "record": {},
+            "milestone": {
+                "point": 200,
+                "got": []
+            },
+            "coin": 0,
+            "campaignCnt": 0,
+            "favorList": [
+                "char_4058_pepe",
+                "char_4138_narant",
+                "char_4140_lasher",
+                "char_4139_papyrs"
+            ]
+        },
+        "act35side": {
+            "carving": null,
+            "unlock": {
+                "challenge_1": 1
+            },
+            "record": {},
+            "milestone": {
+                "point": 200,
+                "got": []
+            },
+            "coin": 20,
+            "campaignCnt": 0,
+            "favorList": [
+                "char_4058_pepe",
+                "char_4138_narant",
+                "char_4140_lasher",
+                "char_4139_papyrs"
+            ],
+            "items": {
+                "act35side_token_dust_rep_1": 45
+            }
+        }
+    },
+    "TYPE_ACT36SIDE": {
+        "act36side": {}
+    },
+    "TYPE_ACT38SIDE": {
+        "act38side": {}
+    },
+    "AUTOCHESS_VERIFY1": {
+        "act1vautochess": {}
+    },
+    "ARCADE": {
+        "act1arcade": {}
+    },
+    "MULTIPLAY_V3": {
+        "act1multi": {
+            "globalBan": true,
+            "collection": {
+                "info": {
+                    "finishCnt": 0,
+                    "mentorCnt": 0,
+                    "likeCnt": 0
+                },
+                "title": {
+                    "unlock": [],
+                    "select": []
+                },
+                "photo": {
+                    "template": {},
+                    "album": {}
+                }
+            },
+            "milestone": {
+                "point": 0,
+                "got": []
+            },
+            "daily": {
+                "process": 0,
+                "state": 0
+            },
+            "troop": {
+                "buff": {
+                    "unlock": [],
+                    "coin": 0,
+                    "star": 0
+                },
+                "squads": {}
+            },
+            "stage": {
+                "act1multi_tr01": {
+                    "star": 3,
+                    "exScore": 0,
+                    "matchTimes": 0,
+                    "startTimes": 3,
+                    "finishTimes": 0
+                }
+            },
+            "match": {
+                "bannedUntilTs": 0,
+                "lastModeList": [],
+                "lastMentorType": 0,
+                "lastReverse": 0
+            },
+            "team": {
+                "teamId": "",
+                "startTs": 0,
+                "teamType": 0
+            },
+            "scene": {
+                "sceneId": "",
+                "startTs": 0,
+                "stageId": "",
+                "reverse": 0
+            }
+        }
+    },
+    "TYPE_MAINSS": {
+        "act2mainss": {
+            "coin": 73,
+            "favorList": [
+                "char_4179_monstr",
+                "char_4178_alanna",
+                "char_445_wscoot"
+            ],
+            "items": {
+                "act2mainss_token": 210
+            }
+        }
+    },
+    "TYPE_ACT42SIDE": {
+        "act42side": {
+            "coin": 70,
+            "campaignCnt": 0,
+            "favorList": [],
+            "items": {
+                "act42side_token_pacifier": 25
+            }
+        }
+    },
+    "TYPE_ACT44SIDE": {
+        "act44side": {}
+    },
+    "TYPE_ACT45SIDE": {
+        "act45side": {
+            "platformUnlock": false,
+            "charState": {
+                "char_4182_oblvns": 0,
+                "char_4186_tmoris": 0,
+                "char_4184_dolris": 0,
+                "char_4185_amoris": 0,
+                "char_4183_mortis": 0
+            },
+            "mailState": {
+                "letter_1": 0,
+                "letter_2": 0,
+                "letter_3": 0,
+                "letter_4": 0,
+                "letter_5": 0
+            },
+            "coin": 0,
+            "favorList": [
+                "char_4182_oblvns",
+                "char_4186_tmoris",
+                "char_4184_dolris",
+                "char_4185_amoris",
+                "char_4183_mortis"
+            ]
+        }
+    },
+    "APRIL_FOOL": {
+        "act6fun": {
+            "isOpen": true
+        }
+    },
+    "HALFIDLE_VERIFY1": {
+        "act1vhalfidle": {
+            "globalBan": false,
+            "milestone": {
+                "point": 0,
+                "got": []
+            },
+            "troop": {
+                "char": {
+                    "1": {
+                        "instId": 1,
+                        "charId": "char_285_medic2",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "2": {
+                        "instId": 2,
+                        "charId": "char_286_cast3",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "3": {
+                        "instId": 3,
+                        "charId": "char_376_therex",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "4": {
+                        "instId": 4,
+                        "charId": "char_4000_jnight",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "5": {
+                        "instId": 5,
+                        "charId": "char_4077_palico",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "6": {
+                        "instId": 6,
+                        "charId": "char_4091_ulika",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "7": {
+                        "instId": 7,
+                        "charId": "char_4136_phonor",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "8": {
+                        "instId": 8,
+                        "charId": "char_4093_frston",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "9": {
+                        "instId": 9,
+                        "charId": "char_4188_confes",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "10": {
+                        "instId": 10,
+                        "charId": "char_502_nblade",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "11": {
+                        "instId": 11,
+                        "charId": "char_500_noirc",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "12": {
+                        "instId": 12,
+                        "charId": "char_503_rang",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "13": {
+                        "instId": 13,
+                        "charId": "char_501_durin",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "14": {
+                        "instId": 14,
+                        "charId": "char_009_12fce",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "15": {
+                        "instId": 15,
+                        "charId": "char_123_fang",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "16": {
+                        "instId": 16,
+                        "charId": "char_240_wyvern",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "17": {
+                        "instId": 17,
+                        "charId": "char_192_falco",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "18": {
+                        "instId": 18,
+                        "charId": "char_208_melan",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "19": {
+                        "instId": 19,
+                        "charId": "char_283_midn",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "20": {
+                        "instId": 20,
+                        "charId": "char_281_popka",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "21": {
+                        "instId": 21,
+                        "charId": "char_209_ardign",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "22": {
+                        "instId": 22,
+                        "charId": "char_122_beagle",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "23": {
+                        "instId": 23,
+                        "charId": "char_284_spot",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "24": {
+                        "instId": 24,
+                        "charId": "char_124_kroos",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "25": {
+                        "instId": 25,
+                        "charId": "char_211_adnach",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "26": {
+                        "instId": 26,
+                        "charId": "char_282_catap",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "27": {
+                        "instId": 27,
+                        "charId": "char_121_lava",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "28": {
+                        "instId": 28,
+                        "charId": "char_120_hibisc",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "29": {
+                        "instId": 29,
+                        "charId": "char_212_ansel",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "30": {
+                        "instId": 30,
+                        "charId": "char_210_stward",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "31": {
+                        "instId": 31,
+                        "charId": "char_278_orchid",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "32": {
+                        "instId": 32,
+                        "charId": "char_235_jesica",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "33": {
+                        "instId": 33,
+                        "charId": "char_277_sqrrel",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    },
+                    "34": {
+                        "instId": 34,
+                        "charId": "char_002_amiya",
+                        "level": 1,
+                        "skillLvl": 1,
+                        "evolvePhase": 0,
+                        "isAssist": false,
+                        "defaultEquipId": "",
+                        "defaultSkillId": ""
+                    }
+                },
+                "npc": [],
+                "assist": [
+                    null
+                ],
+                "trap": [
+                    "plot_lhgras",
+                    "plot_lhfarm",
+                    "plot_lhpad",
+                    "plot_lhcamp",
+                    "plot_lhblod",
+                    "plot_lhflwr"
+                ],
+                "extraAssist": false
+            },
+            "stage": {
+                "act1halfidle_tr01": {
+                    "rate": null,
+                    "bossState": 0
+                },
+                "act1halfidle_01": {
+                    "rate": null,
+                    "bossState": 0
+                },
+                "act1halfidle_02": {
+                    "rate": null,
+                    "bossState": 0
+                },
+                "act1halfidle_03": {
+                    "rate": null,
+                    "bossState": 0
+                },
+                "act1halfidle_04": {
+                    "rate": null,
+                    "bossState": 0
+                },
+                "act1halfidle_05": {
+                    "rate": null,
+                    "bossState": 0
+                },
+                "act1halfidle_06": {
+                    "rate": null,
+                    "bossState": 0
+                },
+                "act1halfidle_h01": {
+                    "rate": null,
+                    "bossState": 0
+                },
+                "act1halfidle_h02": {
+                    "rate": null,
+                    "bossState": 0
+                },
+                "act1halfidle_h03": {
+                    "rate": null,
+                    "bossState": 0
+                },
+                "act1halfidle_h04": {
+                    "rate": null,
+                    "bossState": 0
+                },
+                "act1halfidle_h05": {
+                    "rate": null,
+                    "bossState": 0
+                },
+                "act1halfidle_h06": {
+                    "rate": null,
+                    "bossState": 0
+                },
+                "act1halfidle_h07": {
+                    "rate": null,
+                    "bossState": 0
+                },
+                "act1halfidle_h08": {
+                    "rate": null,
+                    "bossState": 0
+                }
+            },
+            "settleInfo": null,
+            "production": {
+                "rate": null,
+                "product": {},
+                "refreshTs": 0,
+                "harvestTs": 0
+            },
+            "recruit": {
+                "poolGain": {
+                    "newPlayerGachaPool": []
+                },
+                "poolTimes": {
+                    "normalGachaPool": 0,
+                    "newPlayerGachaPool": 0,
+                    "gachaPac1": 0,
+                    "gachaPac2": 0,
+                    "gachaPac3": 0,
+                    "gachaPac4": 0,
+                    "gachaPac5": 0,
+                    "gachaPac6": 0,
+                    "directionGachaPool": 0
+                }
+            },
+            "inventory": {},
+            "tech": {
+                "unlock": []
+            }
+        }
+    }
+}
